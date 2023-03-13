@@ -1,2 +1,2 @@
 #!/bin/bash
-sh: 1: q: not found
+cut -c1 | tr -d '\n' | sort
